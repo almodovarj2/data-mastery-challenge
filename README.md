@@ -12,10 +12,6 @@ I've been a long-time fan of Scott H. Young’s *Ultralearning* and his MIT Chal
 
 ### The Goal
 
----
-> "The craftsman mindset focuses on what you can offer the world." — Cal Newport
----
-
 This is my public commitment to push the limits of what one person can achieve with deliberate, intense practice. I plan to document the journey rigorously on GitHub and my blog, sharing code, projects, reflections, struggles, and wins.
 
 While rigid structure is not the point, the areas I plan to cover over the next 6 months are:
